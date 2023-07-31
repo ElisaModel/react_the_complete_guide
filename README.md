@@ -73,7 +73,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 $ git add -A // . dodaj wszystko
 $ git commit -am "Adding-form-inputs" // -m poprostu komentarz
 $ git push -u origin react-state-events
-
+$ git checkout main
+$ git merge nazva-branch
+$ git push 
 
 $ git status
 $ git branch
+
+
+upgrade Linux
+1 $sudo apt update
+2 $sudo apt upgrade
+3 $sudo apt autoremove (zeruje staure)
