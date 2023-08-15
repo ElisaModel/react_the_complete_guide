@@ -83,6 +83,5 @@ $upgrade Linux 1
  2 $sudo apt upgrade
  3 $sudo apt autoremove (zeruje staure)
 
-xkjbcvkjzbx z;kjsgz
-zfdhgn
+
 
