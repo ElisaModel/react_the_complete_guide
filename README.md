@@ -77,3 +77,12 @@ $ git push -u origin react-state-events
 
 $ git status
 $ git branch
+
+$upgrade Linux 1
+ $sudo apt update
+ 2 $sudo apt upgrade
+ 3 $sudo apt autoremove (zeruje staure)
+
+xkjbcvkjzbx z;kjsgz
+zfdhgn
+
