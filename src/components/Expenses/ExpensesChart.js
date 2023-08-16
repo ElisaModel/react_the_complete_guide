@@ -1,10 +1,10 @@
-import React from "react";
-import './Chart.css'
+//import React from "react";
+//import './Chart.css'
 
-const ExpenseChart = props => {
-    return <Chart />
-}
+//const ExpenseChart = props => {
+   // return <Chart />
+//}
 
 
 
-expect default ExpenseChart;
+//expect default ExpenseChart;

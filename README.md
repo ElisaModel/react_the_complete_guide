@@ -83,6 +83,8 @@ $upgrade Linux 1
  2 $sudo apt upgrade
  3 $sudo apt autoremove (zeruje staure)
 
-;cgyk
+wyrzucic branch
+$ git branch -d rendering-lists-and-conditional-content // bedzie podtwierdzenie -D
+
 
 
