@@ -86,5 +86,5 @@ $upgrade Linux 1
 wyrzucic branch
 $ git branch -d rendering-lists-and-conditional-content // bedzie podtwierdzenie -D
 
-
+slk.dnflkns zlkdnslkndv
 
