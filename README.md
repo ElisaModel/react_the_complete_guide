@@ -73,6 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 $ git add -A // . dodaj wszystko
 $ git commit -am "Adding-form-inputs" // -m poprostu komentarz
 $ git push -u origin react-state-events
+$ git push --force rigin add-Lizia-user // nie wrzycamy cos na sile!!
+$ git push -f rigin add-Lizia-user // nie wrzycamy cos na sile!!
 
 
 $ git status
@@ -87,4 +89,5 @@ wyrzucic branch
 $ git branch -d rendering-lists-and-conditional-content // bedzie podtwierdzenie -D
 
 slk.dnflkns zlkdnslkndv
+
 
